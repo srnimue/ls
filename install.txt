@@ -1,0 +1,7 @@
+charset,Shift_JIS
+name,Linga Sharira
+type,ghost
+directory,l_s
+
+refresh,1
+refreshundeletemask,satori_savedata.txt

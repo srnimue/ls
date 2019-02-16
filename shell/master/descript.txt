@@ -1,0 +1,27 @@
+charset,Shift_JIS
+name,master
+type,shell
+id,master
+craftman,Cat of MOON
+craftmanw,ŽHŒŽ—ù‰Ø
+craftmanurl,http://2shin.net/nekotuki/
+
+readme,readme.txt
+
+sakura.balloon.alignment,none
+kero.balloon.alignment,none
+
+sakura.balloon.offsetx,0
+sakura.balloon.offsety,0
+kero.balloon.offsetx,0
+kero.balloon.offsety,400
+
+menu.foreground.font.color.r,255
+menu.foreground.font.color.g,255
+menu.foreground.font.color.b,255
+menu.background.font.color.r,120
+menu.background.font.color.g,120
+menu.background.font.color.b,120
+menu.disable.font.color.r,200
+menu.disable.font.color.g,200
+menu.disable.font.color.b,200

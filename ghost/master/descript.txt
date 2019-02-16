@@ -1,0 +1,15 @@
+
+charset,Shift_JIS
+
+craftman,	Cat of MOON
+craftmanw,にみゅう/皐月れんげ
+craftmanurl,http://nekotuki.skr.jp/
+
+name,Linga Sharira
+type,ghost
+
+sakura.name,ヴィア
+kero.name,マルティ
+
+icon,ls.ico
+shiori,satori.dll
