@@ -342,7 +342,7 @@ OS起動時間φ：（ＯＳ起動時）時間（ＯＳ起動分）分
 1
 
 ＠homeurl
-https://github.com/srnimue/ls/find/master/
+https://raw.githubusercontent.com/srnimue/ls/master/
 
 ＠username
 （ユーザ名）
@@ -398,7 +398,7 @@ http://www.towano.net/ua-ks/
 
 ＊sakura.recommendsites
 Cat of MOON
-http://2shin.net/nekotuki/
+http://nekotuki.skr.jp/
 
 
 
