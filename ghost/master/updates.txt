@@ -1,8 +1,9 @@
 file,delete.txt20695d93be5d52e579d589707a527ff3size=1462
-file,ghost/master/descript.txt914b9eb12c944e979afcce47a28c1581size=216
+file,developer_options.txtf6c6792329e0fdfbacf26cb752bf259dsize=78
+file,ghost/master/descript.txtf17a28932f53e9c5e95c5d33011f0f3asize=224
 file,ghost/master/dic00_Base1.txtae00ecb35fe1362111ac03968f842069size=27120
 file,ghost/master/dic00_Base2.txt41ee3a5c88afb36d210179665144f030size=19562
-file,ghost/master/dic00_etc.txt6368be874a828b80213cbde983c440ebsize=11147
+file,ghost/master/dic00_etc.txtf586c18e16d86c709b703261e2f2d84dsize=11146
 file,ghost/master/dic00_jiten.txt9cb83f40f8af651bad6f03d2e61f6df9size=553
 file,ghost/master/event/dic00_talk1.txte27b00d1206013b759e68ba6fea0dd51size=8733
 file,ghost/master/event/dic00_talk2.txte48333255300024b251c0d59bee5cc53size=10914
@@ -74,7 +75,7 @@ file,ghost/master/saturday_M/dic05_Communicate.txtdaccac17cd3528d0f78bd57ae1c2a
 file,ghost/master/saturday_M/dicAnchor.txt9ea52571d31fc69c84952886255c108csize=812
 file,ghost/master/saturday_M/dic_jiten.txt4b99fd7412c89a4994c4e60bf3149fcasize=4746
 file,install.txt51a16f372882a0a9de50d753931d29bcsize=120
-file,readme.txt194ac2797d96bccd9adfa8f56fe29e0csize=1842
+file,readme.txtf3de84f6fd4c5ea5096ddee33fab6f02size=1849
 file,shell/master/descript.txt6f1b7e9f8e7f31939c19b33eb8b26d6bsize=623
 file,shell/master/menu/bg0.png955097f9cd319b69bdd5c7c6c542a907size=44396
 file,shell/master/menu/bg1.png21838fd47e27841536b3597492b2330bsize=184803
