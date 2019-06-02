@@ -20,13 +20,15 @@
 
 　【 動作確認 】　「SSP」
 　　　　　　　　　　他のでテストはしていないので、動作の保障は出来ません。
-　　【 連絡先 】にみゅう/皐月れんげ　（Cat of MOON）
-　　　　　　　   　Mail◆ren-ge@hotmail.co.jp
-　　　　　　　　  Web◆http://nekotuki.skr.jp/
-　
-【転載・配布】可(要事前連絡)
+　【 連絡先 】 にみゅう/皐月れんげ　（　Cat of MOON　）
+　　　　　　　 　Mail◆catofmoon999@gmail.com
+　　　　　　　　 Web◆http://nekotuki.skr.jp/
 
-　　　【SHIORI】里々　http://www.geocities.jp/poskoma/
+【転載・配布】 可　(　要事前連絡　)
+
+【　SHIORI　】　里々◆http://ukgk.s34.xrea.com/poskoma/
+	           里々/整備班カスタム◆http://ms.shillest.net/
+
 
 ==============================================
 相変わらずの見切り発車です。
